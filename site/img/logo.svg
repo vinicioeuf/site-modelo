@@ -25,9 +25,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.4444445"
-     inkscape:cx="76.499997"
-     inkscape:cy="118.03846"
+     inkscape:zoom="2.042753"
+     inkscape:cx="100.11"
+     inkscape:cy="112.83792"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -42,47 +42,27 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:202.86px;line-height:1.25;font-family:sans-serif;fill:#00004b;fill-opacity:1;stroke:none;stroke-width:5.07151"
-       x="21.9013"
-       y="139.55836"
+       style="font-style:normal;font-weight:normal;font-size:254.209px;line-height:1.25;font-family:sans-serif;fill:#000076;fill-opacity:1;stroke:none;stroke-width:6.35523"
+       x="-4.1100664"
+       y="177.67767"
        id="text957"
-       transform="scale(0.97229645,1.0284929)"><tspan
+       transform="scale(1.0666014,0.93755736)"><tspan
          sodipodi:role="line"
          id="tspan955"
-         x="21.9013"
-         y="139.55836"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#00004b;fill-opacity:1;stroke-width:5.07151">C</tspan></text>
+         x="-4.1100664"
+         y="177.67767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000076;fill-opacity:1;stroke-width:6.35523">C</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:36.6484px;line-height:1.25;font-family:sans-serif;fill:#000091;fill-opacity:1;stroke:none;stroke-width:0.916208"
-       x="0.51480788"
-       y="156.53223"
-       id="text8239"
-       transform="scale(0.91620825,1.0914549)"><tspan
-         sodipodi:role="line"
-         id="tspan8237"
-         x="0.51480788"
-         y="156.53223"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000091;fill-opacity:1;stroke-width:0.916208">Campo da lei</tspan></text>
-    <rect
-       style="fill:#00004b;fill-opacity:1;stroke:#000000;stroke-width:0.715034;stroke-opacity:0"
-       id="rect20061"
-       width="179.44099"
-       height="2.5011508"
-       x="0.13992329"
-       y="174.6398"
-       ry="1.2505754" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:139.962px;line-height:1.25;font-family:sans-serif;fill:#00004b;fill-opacity:1;stroke:none;stroke-width:3.49904"
-       x="56.815907"
-       y="118.83149"
+       style="font-style:normal;font-weight:normal;font-size:175.39px;line-height:1.25;font-family:sans-serif;fill:#000076;fill-opacity:1;stroke:none;stroke-width:4.38473"
+       x="41.346825"
+       y="151.86383"
        id="text5400"
-       transform="scale(1.0278173,0.97293556)"><tspan
+       transform="scale(1.1275073,0.8869122)"><tspan
          sodipodi:role="line"
          id="tspan5398"
-         x="56.815907"
-         y="118.83149"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:3.49904">L</tspan></text>
+         x="41.346825"
+         y="151.86383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000076;fill-opacity:1;stroke-width:4.38473">L</tspan></text>
   </g>
 </svg>
