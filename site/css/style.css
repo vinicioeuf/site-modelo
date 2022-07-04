@@ -268,8 +268,8 @@ header {
   display: block;
   margin: 39px 0 0 0;
   padding: 0 20px;
-  border-top: 1px solid #edeceb;
-  border-bottom: 1px solid #edeceb;
+  border: 1px solid #b1b0af;
+  
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
@@ -315,15 +315,13 @@ header {
   display: inline-block;
   /* float: left; */
   margin: 0 4px;
-  border: none;
+  
   font-weight: normal;
   font-family: 'Cinzel', serif;
   
 }
 
-.nav-cor{
-  color: rgb(255, 0, 0);
-}
+
 .nav-collapse_ .nav > li:first-child > a {
   padding: 38px 23px 20px 20px;
 }
@@ -337,7 +335,8 @@ header {
   padding: 38px 36px 20px 20px;
   font-size: 28px;
   line-height: 24px;
-  color: #f1a604;
+  color: #8b8985;
+  font-weight: bold;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
@@ -431,8 +430,13 @@ header {
   -moz-box-shadow: none;
   box-shadow: none;
   background: #5f5ea3;
-  color: #ff2f2f;
-  border-bottom: 5px solid rgb(2, 10, 128);
+  color: #8b8985;
+  border-bottom: 5px solid rgb(2, 9, 116);
+}
+.nav-collapse_ .nav > li.active > a{
+  background: #5f5ea3;
+  color: #8b8985;
+  border-bottom: 5px solid rgb(2, 9, 116);
 }
 /*hover for second level*/
 .nav-collapse_ .nav > li > ul li > a:hover,
