@@ -1,11 +1,6 @@
-.navbar_ .nav-collapse_ {
-    overflow: visible;
-  }
+
   body {
   	min-width: 950px;
-  }
- #panel .nav-collapse.collapse {
- 	overflow: visible;
   }
   #advanced span.trigger strong{filter:alpha(opacity=0);}
 #advanced.closed span.trigger strong{filter:alpha(opacity=100);}
