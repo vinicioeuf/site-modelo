@@ -1,0 +1,89 @@
+.row-tabs{
+	height: 380px;
+	overflow: hidden;
+}
+
+
+.list_carousel {
+	position:relative;
+	width: 100%;
+	padding: 32px 0 0 0;
+	margin: 0 ;
+    }
+ .caroufredsel_wrapper{}
+.list_carousel ul {
+	display: block;
+	margin: 0 ;
+	padding:0;
+	list-style: none;
+	width: 100%;
+	cursor:default;
+	overflow: hidden;
+	}
+.list_carousel li {
+	display:block;		
+	float: left;
+	margin-right:15px;
+	margin-left:15px;
+    }
+.list_carousel.responsive {
+	width: 100%;
+}
+.other-room{position: relative;}
+.div-control{
+display: block;
+position: absolute;
+top: -43px;
+right: 0;
+}
+#prev2{
+	background: url(../img/prev-1.png) 0 0 no-repeat;
+	width: 46px;
+	height: 46px;
+	display: inline-block !important;
+}
+#prev2:hover{background-position: 0 -46px;}
+#next2{
+	background: url(../img/next-1.png) 0 0 no-repeat;
+	width: 46px;
+	height: 46px;
+	display: inline-block !important;
+}
+#next2:hover{background-position: 0 -46px;}
+
+
+@media (min-width: 1200px) {
+.row-tabs{
+	height: 428px;
+}
+}
+@media (max-width: 767px) {
+		.row-tabs{
+		height: 400px;
+		}
+
+}
+@media (max-width: 480px) {
+	.row-tabs{
+		height: 400px;
+		}
+
+}
+@media (max-width: 380px) {
+	.div-control{
+		left: 15px;
+		right: 15px;
+		top: 3px;
+		overflow: hidden;
+	}
+	#prev2{float: left;}
+	#next2{float: right;}
+	#prev2, #next2{
+		width: 23px;
+		height: 23px;
+		-webkit-background-size: 100%;
+		background-size: 100%;
+	}
+	#prev2:hover, #next2:hover{background-position: 0 -23px;}
+
+}
