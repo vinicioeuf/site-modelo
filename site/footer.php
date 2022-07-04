@@ -10,7 +10,7 @@
              </ul>
            </article>
 	         <article class="span6 fleft">
-                 <span>Bixin associados &copy; 2021 | &nbsp;&nbsp;</span><a href="index-5.php">Privacy Policy</a><br><!-- {%FOOTER_LINK} -->
+                 <span>Campo da lei &copy; 2021 | &nbsp;&nbsp;</span><a href="index-5.php">Privacy Policy</a><br><!-- {%FOOTER_LINK} -->
            </article>
            
        </div>

@@ -52,7 +52,6 @@
                       <li><a href="index-2.php" class="nav-cor">Agendar consulta</span></a></li>
                       <li><a href="index-3.php" class="nav-cor">Sobre</a></li>
                       <li><a href="index-4.php" class="nav-cor">Suporte</a></li>
-                      
                     </ul>
                   	</div>
                   </div>

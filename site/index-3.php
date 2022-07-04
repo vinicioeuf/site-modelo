@@ -100,44 +100,7 @@
              </div>
           </article>
         </div>
-        <div class="row testimonials">
-          <div class="span12"><h2>Testimonials</h2></div>
-          <div class="span3">
-            <blockquote> 
-              <p>Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, loremecenas tristique.</p>
-              <h3>Patrick Pool</h3>
-              <a href="#">Chicago</a>
-              
-            </blockquote>
-
-          </div>
-          <div class="span3">
-            <blockquote> 
-              <p>Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, loremecenas tristique.</p>
-              <h3>Marta Healy</h3>
-              <a href="#">New York</a>
-              
-            </blockquote>
-
-          </div>
-          <div class="span3">
-            <blockquote>
-              <p>Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, loremecenas tristique.</p>
-              <h3>Tom James</h3>
-              <a href="#">Orlando</a>
-              
-            </blockquote>
-
-          </div>
-          <div class="span3">
-            <blockquote>  
-              <p>Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, loremecenas tristique.</p>
-              <h3>Eva Savits</h3>
-              <a href="#">San Francisco</a>
-            </blockquote>
-
-          </div>
-        </div>
+        
 
   </div>
 </div>
