@@ -51,42 +51,42 @@
           <h2>Encontrou algum erro? nos reporte</h2>
           <article class="span8">
             <h2>feedback</h2>
-            <form id="contact-form">
+            <form id="contact-form" method="POST" action="contact.php">
               <div class="success"> Contact form submitted! <strong>We will be in touch soon.</strong> </div>
               <fieldset>
                 <div>
                   <div class="coll-1">
-                    <div class="txt-form">Name*</div>
+                    <div class="txt-form">Nome*</div>
                     <label class="name">
-                      <input type="text">
+                      <input type="text" name="nome">
                       <br>
-                      <span class="error">*This is not a valid name.</span> <span class="empty">*This field is required.</span> </label>
+                      <span class="error">*Não é um nome válido.</span> <span class="empty">*Este campo é obrigatório.</span> </label>
                   </div>
                   <div class="coll-2">
                     <div class="txt-form">E-mail*</div>
                     <label class="email">
-                      <input type="email">
+                      <input type="email" name="email">
                       <br>
-                      <span class="error">*This is not a valid email address.</span> <span class="empty">*This field is required.</span> </label>
+                      <span class="error">*Não é um email válido.</span> <span class="empty">*Este campo é obrigatório.</span> </label>
                   </div>
                   <div class="coll-3">
-                    <div class="txt-form">Phone</div>
+                    <div class="txt-form">Celular</div>
                     <label class="phone notRequired">
-                      <input type="tel">
+                      <input type="tel" name="celular">
                       <br>
-                      <span class="error">*This is not a valid phone number.</span> <span class="empty">*This field is required.</span> </label>
+                      <span class="error">*Não é um número de celular válido.</span> <span class="empty">*Este campo é obrigatório.</span> </label>
                   </div>
                 </div>
                 
                 <div class="div-message">
                   <div class="txt-form">Message*</div>
                   <label class="message">
-                    <textarea></textarea>
+                    <input name="mensagem"></input>
                     <br>
-                    <span class="error">*The message is too short.</span> <span class="empty">*This field is required.</span>
+                    <span class="error">*Essa mensagem é muito pequena.</span> <span class="empty">*Este campo é obrigatório.</span>
                   </label>
                 </div>
-                <div class="buttons-wrapper"><a class="link" data-type="submit">Submit</a><a class="link" data-type="reset">Clear</a> </div>
+                <div class="buttons-wrapper"><button type="submit" class="link">Enviar</button><a class="link" data-type="reset">Limpar campos</a> </div>
               </fieldset>
             </form>
 

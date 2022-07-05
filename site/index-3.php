@@ -58,33 +58,24 @@
           <article class="span4">
             <h2>Sobre nós</h2>
             <div class="img-indent">
-             <figure class="img-polaroid"><img src="img/page-3-img.jpg" alt=""></figure>
-             <p class="col"><a href="#">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. </a></p>
-             <p>Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros.</p>
+             <figure class="img-polaroid"><img src="img/bannerf.svg" alt=""></figure>
+             <p>Atuamos dentro de Salgueiro-PE desde 2019, com até o momento nenhum processo perdido ou negado, taxa de aprovação de aproveitamento de 100% dos casos.</p>
            </div>
           </article>
           <article class="span4">
             <h2>Nosso compromisso</h2>
             <dl class="list-dl">
-               <dt> <a href="#">Donec in velit vel ipsum auctor pulvinar estibulum iaculis 
-               lacinia est elementum velit.</a></dt>
-               <dd>Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montenascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus.</dd>
-               <dt> <a href="#">Vestibulum ante ipsum primis.</a></dt>
-               <dd>Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montenascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. </dd>
-               <dt> <a href="#">Aliquam dapibus tincidunt metus. Praesent justo dolor,
-               lobortis quis, lobortis dignissim, pulvinar ac, lorem estibulum sed ante aliquet sit amet.</a> </dt>
-               <dd>Cum sociis natoque penatibus et magnis dis parturient montenascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem.  </dd>
-            </dl>  
+               <dt> <a href="#">Nossa equipe de advogados</a> </dt>
+               <dd>Primeiramente Vinição malvadeza, doutor em direito penal e bla bla bla, junto de Victor mestre em direito penal e doutor em fisica.  </dd>
+               <dt> <a href="#">Toda a nossa equipe se compromete a garantir o melhor tipo de
+                serviço para você(s) cliente(s).</a></dt>
+               <dd>Nós contamos com uma dupla de desenvolvedores responsáveis pela integridade e desenvolvimento do sistema em questão.</dd>
+               
+              </dl>  
           </article>
           <article class="span4">
             <h2>Equipe</h2>
              <div class="box-staff">
-               <article class="span2">
-                 <figure class="img-polaroid"><img src="img/page-3-img-1.jpg" alt=""></figure>
-               </article>
-               <article class="span2">
-                 <figure class="img-polaroid"><img src="img/page-3-img-2.jpg" alt=""></figure>
-               </article>
                <article class="span2">
                  <figure class="img-polaroid"><img src="img/page-3-img-3.jpg" alt=""></figure>
                </article>
@@ -92,11 +83,12 @@
                  <figure class="img-polaroid"><img src="img/page-3-img-4.jpg" alt=""></figure>
                </article>
                <article class="span2">
-                 <figure class="img-polaroid"><img src="img/page-3-img-5.jpg" alt=""></figure>
+                 <figure class="img-polaroid"><img src="img/dev1.svg" alt=""></figure>
                </article>
                <article class="span2">
-                 <figure class="img-polaroid"><img src="img/page-3-img-6.jpg" alt=""></figure>
+                 <figure class="img-polaroid"><img src="img/dev2.svg" alt=""></figure>
                </article>
+               
              </div>
           </article>
         </div>
